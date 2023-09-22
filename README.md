@@ -8,6 +8,25 @@
 *  A random sample can be drawn from the complete dataset to avoid overfitting issues. Also, the work focuses on training the model on samples of data obtained from the UCI Machine Learning repository.
 *   So, the aim of this study is to improve the prediction of heart disease.
 
+
+![image](https://github.com/SubarnaChinnadurai/HEART/assets/117588706/16341587-e0dd-47ba-a28e-76d19a1752d4)
+
+
+### INTEL TECHNOLOGY:
+
+
+![image](https://github.com/SubarnaChinnadurai/HEART/assets/117588706/5af6c63f-d046-46f4-ad41-376f08c65f5c)
+
+
+The Intel® oneAPI Base Toolkit (Base Kit) is a core set of tools and libraries for developing high-performance, data-centric applications across diverse architectures. It features an industry-leading C++ compiler that implements SYCL*, an evolution of C++ for heterogeneous computing.
+
+Domain-specific libraries and the Intel® Distribution for Python* provide drop-in acceleration across relevant architectures. Enhanced profiling, design assistance, and debug tools complete the kit.
+
+
+
+
+
+
     
 ### EXPLORATION OF DATASET:
 
