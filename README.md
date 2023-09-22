@@ -1,4 +1,8 @@
 # HEART DISEASE PREDICTION:
+
+
+![image](https://github.com/SubarnaChinnadurai/HEART/assets/117588706/8d8b3ed9-721e-4e94-8cf0-1ac93584e709)
+
 ### INTRODUCTION
 * It is difficult to identify the high risk of heart disease where different risks like diabetes, high blood pressure, and cholesterol problems are present. In these types of scenarios, ML can help in the early diagnosis of disease.
 *  A random sample can be drawn from the complete dataset to avoid overfitting issues. Also, the work focuses on training the model on samples of data obtained from the UCI Machine Learning repository.
@@ -33,6 +37,9 @@
 
 *Thallium
 
+![image](https://github.com/SubarnaChinnadurai/HEART/assets/117588706/4d706a0b-a790-46ff-8747-f7c09ea4001b)
+
+
 
 ### MACHINE LEARNIG RESEARCH METHODS:
 
@@ -59,6 +66,13 @@
   5.  The fifth step was ‘intervention’ to get into the decision-making policies i.e., search strategy for understanding previous experimental studies to determine when it becomes efficient to utilize models for real-world problems effectively.
   6.   The sixth step was’application’ of ML algorithms in making the predictions. In this work, four machine learning models were utilized i.e., SVM, Naïve Bayes, Logistic Regression, and XGBoost.
  
+     ![image](https://github.com/SubarnaChinnadurai/HEART/assets/117588706/c857b0cb-ae92-48bc-9809-81de0236dcab)
+
+
+      ![image](https://github.com/SubarnaChinnadurai/HEART/assets/117588706/fb52ed9c-ffb9-4414-a8d8-cb3866c6a81e)
+
+
+ 
 
    ###  RESULTS:
 
@@ -80,6 +94,11 @@
   *  Receiver operating characteristic (ROC) for different classifiers
  
   *  Area under the curve (AUC) for the performance of the classification model.
+ 
+
+
+  ![image](https://github.com/SubarnaChinnadurai/HEART/assets/117588706/bb035392-d029-419d-9f37-df4de7a7d252)
+
  
   ### CONCLUSION
 
